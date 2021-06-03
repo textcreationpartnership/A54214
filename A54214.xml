@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some account of the Province of Pennsilvania in America lately granted under the great seal of England to William Penn &amp;c. : together with priviledges and powers necessary to the well-governing thereof : made publick for the information of such as are, or may be disposed to transport themselves, or servants into those parts.</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54214</idno><idno type="EEBO-CITATION">8189470</idno>
+  <idno type="VID">41055</idno>
+  <idno type="EEBO-PROQUEST">2248502464</idno>
+  
+            <idno type="STC">Wing P1365</idno>
+            <idno type="STC">ESTC R24456</idno>
+            <idno type="OCLC">08189470</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1236:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some account of the Province of Pennsilvania in America lately granted under the great seal of England to William Penn &amp;c. : together with priviledges and powers necessary to the well-governing thereof : made publick for the information of such as are, or may be disposed to transport themselves, or servants into those parts.</title>
+                  <author>Penn, William, 1644-1718.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by Benjamin Clark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: William Penn.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land grants --  Pennsylvania.</term>
+               <term type="geographic_name">Pennsylvania --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+               <term type="geographic_name">Pennsylvania --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41055:1"/>
+            <p>SOME ACCOUNT OF THE PROVINCE OF PENNSILVANIA IN AMERICA; Lately Granted under the Great Seal OF ENGLAND TO William Penn, &amp;c.</p>
+            <p>Together with Priviledges and Powers neces<g ref="char:EOLhyphen"/>sary to the well-governing thereof.</p>
+            <p>Made publick for the Information of such as are or may be disposed to Transport themselves or Servants into those Parts.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, and Sold by <hi>Benjamin Clark</hi> Bookseller in <hi>George-Yard Lombard-street,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:41055:2"/>
+            <pb n="1" facs="tcp:41055:2"/>
+            <head>SOME ACCOUNT OF THE PROVINCE of Pennsilvania IN AMERICA; Lately Granted under the Great Seal of ENGLAND TO William Penn, &amp;c.</head>
+            <p>SInce (by the good providence of God) a Country in <hi>America</hi> is fallen to my lot, I thought it not less my Duty than my honest In<g ref="char:EOLhyphen"/>terest to give some publick notice of it to the World, that those of our own, or other Nations, that are inclin'd to Transport themselves or Families beyond the Seas, may find another Country added to their choice, that if they shall happen to like the <hi>Place, Conditions</hi> and <hi>Con<g ref="char:EOLhyphen"/>stitutions,</hi> (so far as the present Infancy of things will allow us any prospect) they may, if they please, fix with me in the <hi>Province</hi> here<g ref="char:EOLhyphen"/>after describ'd. But before I come to treat of my particular Concern<g ref="char:EOLhyphen"/>ment, I shall take leave to say something of the benefit of <hi>Plantations</hi> or <hi>Colonies</hi> in general, to obviate a common Objection.</p>
+            <p>
+               <hi>Colonies</hi> then are the Seeds of Nations begun and nourished by the care of wise and populous Countries; as conceiving them best for the in<g ref="char:EOLhyphen"/>crease of Humane Stock, and beneficial for Commerce.</p>
+            <p>Some of the wisest men in History have justly taken their Fame from this Design and Service: We read of the Reputation given on this ac<g ref="char:EOLhyphen"/>count to <hi>Moses, Joshua</hi> and <hi>Caleb</hi> in Scripture-Records; and what Re<g ref="char:EOLhyphen"/>nown the <hi>Greek</hi>-story yields to <hi>Lycurgus, Theseus,</hi> and those <hi>Greeks</hi> that
+<pb n="2" facs="tcp:41055:3"/> Planted many parts of <hi>Asia:</hi> Nor is the <hi>Roman</hi> account wanting of in<g ref="char:EOLhyphen"/>stances to the Credit of that People; They had a <hi>Romulus,</hi> a <hi>Numa Pompilius;</hi> and not only reduc'd, but moraliz'd the Manners of the Nations they subjected; so that they may have been rather said to con<g ref="char:EOLhyphen"/>quer their Barbarity than Them.</p>
+            <p>Nor did any of these ever dream it was the way of decreasing their People or Wealth: For the cause of the decay of any of those States or Empires was not their <hi>Plantations,</hi> but their <hi>Luxury and corruption of Man<g ref="char:EOLhyphen"/>ners:</hi> For when they grew to neglect their ancient Discipline, that main<g ref="char:EOLhyphen"/>tained and rewarded Virtue and Industry, and addicted themselves to <hi>Pleasure</hi> and <hi>Effeminacy,</hi> they debas'd their Spirits and debauch'd their Morals, from whence Ruine did never fail to follow to any People: With Justice therefore I deny the vulgar Opinion against <hi>Plantations, That they weaken</hi> England; they have manifestly inrich'd, and so strengthned her; Which I briefly evidence thus.</p>
+            <p n="1">1st. Those that go into a Foreign <hi>Plantation,</hi> their Industry there is worth more than if they stay'd at home, the Product of their Labour being in Commodities of a superiour Nature to those of this <hi>Country.</hi> For Instance, What is an improved Acre in <hi>Jamaica</hi> or <hi>Barbadoes</hi> worth to an improved Acre in <hi>England?</hi> We know 'tis threetimes the value, and the product of it comes for <hi>England,</hi> and is usually paid for in <hi>English Growth</hi> and <hi>Manufacture.</hi> Nay, <hi>Virginia</hi> shews that an ordinary Industry in one man produces Three thousand pound weight of Tobacco and Twenty Barrels of Corn yearly: He feeds himself, and brings as much of Commodity into <hi>England</hi> besides as being return'd in the Growth and Workmanship of this Countrey, is much more than he could have spent here: Let it also be remembred, that the Three thousand weight of Tobacco brings in Three thousand Two-pences by way of Custom to the King, which makes Twenty five Pounds; An extraordinary Profit.</p>
+            <p n="2">2dly. More being produc'd and imported than we can spend here, we Export it to other Countries in <hi>Europe,</hi> which brings in Money, or the Growth of those Countries, which is the same thing; And this is the Advantage of the <hi>English</hi>-Merchants and Seamen.</p>
+            <p n="3">3dly. Such as could not only not <hi>marry</hi> here, but hardly live and allow themselves Cloaths, do marry there, and bestow thrice more in all Necessaries and Conveniencies (and not a little in Ornamental things too) for themselves, their Wives and Children, both as to Ap<g ref="char:EOLhyphen"/>parel and Houshold-stuff; which coming out of <hi>England, I say 'tis im<g ref="char:EOLhyphen"/>possible that</hi> England <hi>should not be a considerable Gainer.</hi>
+            </p>
+            <p n="4">4thly. But let it be consider'd, <hi>That the Plantations imploy many hundreds of Shipping, and many thousands of Seamen;</hi> which must be in divers respects an Advantage to <hi>England,</hi> being an Island, and by Na<g ref="char:EOLhyphen"/>ture fitted for Navigation above any Countrey in <hi>Europe.</hi> This is fol<g ref="char:EOLhyphen"/>lowed by other depending Trades, as <hi>Shipwrights, Carpenters, Sawyers, Hewers, Trunnel-makers, Joyners, Slopsellers, Dry-salters, Iron-workers,</hi> the <hi>Eastland-Merchants, Timber-sellers,</hi> and <hi>Victuallers,</hi> with many more Trades which hang upon <hi>Navigation:</hi> So that we may easily see the Ob<g ref="char:EOLhyphen"/>jection (<hi>That Colonies or Plantations hurt</hi> England) is at least of no
+<pb n="3" facs="tcp:41055:3"/> strength, especially if we consider how many thousand <hi>Blacks</hi> and <hi>Indians</hi> are also accomodated with <hi>Cloaths</hi> and many sorts of <hi>Tools</hi> and <hi>Ʋtensils</hi> from <hi>England,</hi> and that their <hi>Labour</hi> is mostly brought hither, which adds <hi>Wealth</hi> and <hi>People</hi> to the <hi>English Dominions.</hi> But 'tis further said, <hi>They injure</hi> England, <hi>in that they draw away too many of the people; for we are not so populous in the Countries as formerly:</hi> I say there are other reasons for that.</p>
+            <p n="1">1st. <hi>Country-People</hi> are so extremely addicted to put their Children into Gentlemens Service, or send them to Towns to learn Trades, that <hi>Husbandry is neglected;</hi> and after a soft and delicate Usage there, they are for ever unfitted for the Labour of a <hi>Farming</hi> Life.</p>
+            <p n="2">2dly. The <hi>Pride</hi> of the Age in its <hi>Attendance</hi> and <hi>Retinue</hi> is so gross and universal, that where a man of 1000 <hi>l.</hi> a year formerly kept but four or five Servants, he now keeps more than twice the number; He must have a <hi>Gentleman</hi> to wait upon him in his Chambers, a <hi>Coach-man,</hi> a <hi>Groom</hi> or two, a <hi>Butler,</hi> a <hi>Man-Cook,</hi> a <hi>Gardner,</hi> two or three <hi>Lac<g ref="char:EOLhyphen"/>ques,</hi> it may be an <hi>Huntsman,</hi> and a <hi>Faulkner,</hi> the Wife a <hi>Gentlewoman,</hi> and <hi>Maids accordingly:</hi> This was not known by our <hi>Ancestors</hi> of like Quality. This hinders the <hi>Plough</hi> and the <hi>Dairy,</hi> from whence they are taken, and instead of keeping People to Manly-labour, they are effe<g ref="char:EOLhyphen"/>minated by a lazy and luxurious Living; But which is worse, these people <hi>rarely marry,</hi> tho' many of them do worse; but if they do, 'tis when they are in Age; And the reason is clear, because their usual <hi>Kee<g ref="char:EOLhyphen"/>ping</hi> at their Masters is too great and costly for them with a Family at their own Charge, and they scarcely know how to live lower; so that too many of them chuse rather to vend their Lusts at an <hi>evil Ordinary</hi> than honestly Marry and Work: <hi>The excess and sloth of the Age not allowing of Marriage and the Charge that follows;</hi> all which hinders the increase of our People. If Men, they often turn either <hi>Souldiers,</hi> or <hi>Gamesters,</hi> or <hi>Highway-men.</hi> If Women, they too frequently <hi>dress themselves for a bad market,</hi> rather than know the <hi>Dairy</hi> again, or ho<g ref="char:EOLhyphen"/>nestly return to <hi>Labour,</hi> whereby it happens that both the Stock of the Nation decays and the Issue is corrupted.</p>
+            <p n="3">3dly. Of old time the <hi>Nobility</hi> and <hi>Gentry</hi> spent their Estates in the Country, and that kept the people in it; and their Servants married and sate at easie Rents under their Masters favour, which peopled the place: Now the Great men (too much loving the Town and resorting to <hi>London</hi>) draw many people thither to attend them, who either don't marry; or if they do, they pine away their small gains in some petty Shop; for there are so many, they prey upon one another.</p>
+            <p n="4">4thly. The Country being thus neglected, <hi>and no due Ballance kept between Trade and Husbandry, City and Country,</hi> the poor Country-man takes double Toil, and cannot (for want of hands) dress and manure his Land to the Advantage it formerly yielded him, yet must he pay the old Rents, which occasions Servants, and such Children as go not to Trades, to continue single, at least <hi>all their youthful time,</hi> which also ob<g ref="char:EOLhyphen"/>structs the increase of our people.</p>
+            <p n="5">5thly. The decay of some Country-manufactures (where no Provision is made to supply the people with a new way of living) causes the more Industrious to go abroad to seek their Bread in other Countries, and
+<pb n="4" facs="tcp:41055:4"/> gives the lazy an occasion to loiter and beg or do worse, by which means the Land <hi>swarms with Beggars:</hi> Formerly 'twas rare to find any asking <hi>Alms</hi> but the <hi>Maimed,</hi> or <hi>Blind,</hi> or <hi>very Aged;</hi> now thousands of both Sexes run up and down, both City and Country, that are sound and youthful, and able to work, with false Pretences and Certificates; nor is there any care taken to imploy or deter such Vagrants, which weakens the Country, as to People and Labour.</p>
+            <p>To which let me add, that the great <hi>Debauchery</hi> in this Kingdom has not only rendred many unfruitful when married, but they live not out half their time, through Excesses, which might be prevented by a vigo<g ref="char:EOLhyphen"/>rous execution of our good Laws against corruption of manners. These and the like evils are the true grounds of the decay of our People in the Country, to say nothing of <hi>Plague</hi> and <hi>Wars:</hi> Towns and Cities can<g ref="char:EOLhyphen"/>not complain of the decay of People, being more replenish'd than ever, especially <hi>London,</hi> which with reason helps the Country-man to this Objection. And though some do go to the <hi>Plantations,</hi> yet numbering the Parishes in <hi>England,</hi> and computing how many live more than die, and are born than buried, there goes not over to all the <hi>Plantations</hi> a fourth part of the yearly increase of the People. and when they are there, <hi>they are not</hi> (as I said before) <hi>lost to</hi> England, since they furnish them with much <hi>Cloaths, Houshold-stuff, Tools,</hi> and the like necessaries, and that in greater quantities than here their condition could have nee<g ref="char:EOLhyphen"/>ded, or they could have bought, being there well to pass, that were but low here, if not poor; and now Masters of Families too, when here they had none, and could hardly keep themselves; and very often it happens that some of them, after their Industry and Success there have made them wealthy, they return and <hi>empty</hi> their Riches into <hi>England;</hi> one in this capacity being able to buy out twenty of what he was when he went over.</p>
+            <p>Thus much to justifie the Credit and Benefit of <hi>Plantations;</hi> wherein I have not sought to speak my Interest, but my Judgment; and I dare venture the success of it with all sober and considering men. I shall now proceed to give some account of my own concern.</p>
+            <p n="1">1st. <hi>I shall say what may be necessary of the Place or Province.</hi>
+            </p>
+            <p n="2">2dly. <hi>Touch upon the Constitutions.</hi>
+            </p>
+            <p n="3">3dly. <hi>Lay down the Conditions.</hi>
+            </p>
+            <p n="4">4thly. <hi>Give my sense what persons will be fit to go.</hi>
+            </p>
+            <p n="5">5thly. <hi>What Ʋtensils, Furniture and Commodities are fit to carry with them, with the charge of the voyage, and what is first to be done and expected there for some time.</hi>
+            </p>
+            <p>And lastly, <hi>I shall give an Abstract of the Grant by Letters Patents under the Great Seal of</hi> England, <hi>that an account may be given of the Estate and Power granted to me thereby.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> Something of the Place.</head>
+               <p>The Place lies 600 miles nearer the Sun than <hi>England;</hi> for <hi>England</hi> begins at the 50th. Degree and ten minutes of North Latitude, and this Place begins at fourty, which is about the Latitude of <hi>Naples</hi> in <hi>Italy,</hi> or <hi>Mompellier</hi> in <hi>France.</hi> I shall say little in its praise, to excite desires in any, whatever I could truly write as to the Soil, Air and Water: This shall satisfie me, that by the <hi>Blessing</hi> of God, and the honesty and industry of Man, it may be a good and fruitful Land.</p>
+               <p>For <hi>Navigation</hi> it is said to have two conveniencies; the one by lying
+<pb n="5" facs="tcp:41055:4"/> Ninescore miles upon <hi>Delaware</hi> River; that is to say, about three<g ref="char:EOLhyphen"/>score and ten miles, before we come to the <hi>Falls,</hi> where a Vessel of Two hundred Tuns may Sail, (and some Creeks and small Harbours in that distance, where Ships may come nearer than the River into the Country) and above the <hi>Falls,</hi> for Sloops and Boots, as I am informed, to the extent of the Patent. The other convenience is through <hi>Chespa<g ref="char:EOLhyphen"/>peak-Bay.</hi>
+               </p>
+               <p>For Timber and other Wood there is variety for the use of man.</p>
+               <p>For <hi>Fowl, Fish,</hi> and <hi>Wild-Deer,</hi> they are reported to be plentiful in those Parts. Our <hi>English</hi> Provision is likewise now to be had there at rea<g ref="char:EOLhyphen"/>sonable Rates. The Commodities that the Country is thought to be <hi>capable</hi> of, are <hi>Silk, Flax, Hemp, Wine, Sider, Woad, Madder, Liquorish, Tobacco, Pot-ashes,</hi> and <hi>Iron,</hi> and it does actually produce <hi>Hides, Tallow, Pipe staves, Beef, Pork, Sheep, Wool, Corn,</hi> as <hi>Wheat, Barly, Ry,</hi> and also <hi>Furs,</hi> as your <hi>Peltree, Mincks, Racoons, Martins,</hi> and such like; store of <hi>Furs</hi> which is to be found among the <hi>Indians,</hi> that are profita<g ref="char:EOLhyphen"/>ble Commodities in <hi>Europe.</hi>
+               </p>
+               <p>The way of trading in those Countries is thus: they send to the Southern Plantations <hi>Corn, Beef, Pork, Fish</hi> and <hi>Pipe-staves,</hi> and take their Growth and bring for <hi>England,</hi> and return with <hi>English</hi> Goods to their own Country. Their <hi>Furs</hi> they bring for <hi>England,</hi> and either sell them here, or carry them out again to other parts of <hi>Europe,</hi> where they will yield a better price: And for those that will follow <hi>Merchandize</hi> and <hi>Navigation</hi> there is conveniency, and <hi>Timber sufficient for Shipping.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II. The Constitutions.</head>
+               <p>
+                  <hi>For the Constitution of the Country, the Patent shows, first,</hi> That the People and Governour have a Legislative Power, so that no Law can be made, nor Money raised, but by the Peoples consent.</p>
+               <p n="2">2dly. That the Rights and Freedoms of <hi>England (the best and largest in</hi> Europe) shall be in force there.</p>
+               <p n="3">3dly. That making no Law against Allegiance (<hi>which should we, 'twere by the Law of</hi> England <hi>void of it self that moment</hi>) we may Enact what Laws we please for the good prosperity and security of the said Province.</p>
+               <p n="4">4thly. <hi>That so soon as any are ingaged with me, we shall begin a</hi> Scheam <hi>or</hi> Draught <hi>together, such as shall give ample Testimony of my sincere Incli<g ref="char:EOLhyphen"/>nations to encourage Planters, and settle a free, just and industrious</hi> Colo<g ref="char:EOLhyphen"/>ny <hi>there.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>III. The Conditions.</head>
+               <p>My Conditions will relate to three sorts of people: <hi>1st.</hi> Those that will <hi>buy: 2dly.</hi> Those that take up Land upon <hi>Rent: 3dly.</hi> Servants. To the first, the Shares I sell shall be certain as to number of Acres; that is to say, every one shall contain Five thousand Acres, free from any <hi>Indian</hi> in<g ref="char:EOLhyphen"/>cumbrance, the price a hundred pounds, and for the Quit-rent but one <hi>English</hi> shilling or the value of it yearly for a hundred Acres; and the said Quit-Rent not to begin to be paid till <hi>1684.</hi> To the second sort, that take up Land upon Rent, they shall have liberty so to do paying yearly <hi>one peny</hi> per Acre, not exceeding Two hundred Acres. To the third sort, to wit, <hi>Ser<g ref="char:EOLhyphen"/>vants</hi> that are carried over, Fifty Acres shall be allowed to the Master for every Head, and Fifty Acres to every Servant when their time is expired.
+<pb n="6" facs="tcp:41055:5"/> And because some engage with me that may not be disposed to go, it were very advisable for every three Adventurers to send an Overseer with their Ser<g ref="char:EOLhyphen"/>vants, which would well pay the Cost.</p>
+               <p>The <hi>Divident</hi> may be thus; if the persons concern'd please, a Tract of Land shall be survey'd; say <hi>Fifty thousand Acres to a hundred Adven<g ref="char:EOLhyphen"/>turers;</hi> in which some of the best shall be set out for Towns or Cities; and there shall be so much Ground allotted to each in those Towns as may main<g ref="char:EOLhyphen"/>tain some Cattel and produce some Corn; then the remainder of the fifty thousand Acres shall be shar'd among the said <hi>Adventurerers</hi> (ca<g ref="char:EOLhyphen"/>sting up the Barren for Commons, and allowing for the same) whereby every <hi>Adventurer</hi> will have a considerable quantity of Land together; likewise every one a proportion by a Navigable River, and then backward into the Country. The manner of divident I shall not be strict in; we can but speak roughly of the matter here; but let men skilful in <hi>Plantations</hi> be consulted, and I shall leave it to the majority of votes among the <hi>Adventurers</hi> when it shall please God we come there, how to fix it to their own content.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. These persons that providence seems to have most fitted for Plantations are,</head>
+               <p n="1">
+                  <hi>1st.</hi> Industrious <hi>Husbandmen</hi> and <hi>Day-Labourers,</hi> that are hardly able (with extreme Labour) to maintain their Families and portion their Children.</p>
+               <p n="2">
+                  <hi>2dly.</hi> Laborious <hi>Handicrafts,</hi> especially <hi>Carpenters, Masons, Smiths, Weavers, Taylors, Tanners, Shoemakers, Shipwrights,</hi> &amp;c. where they may be spared or are low in the World: And as they shall want no en<g ref="char:EOLhyphen"/>couragement, so their Labour is worth more there than here, and there pro<g ref="char:EOLhyphen"/>vision cheaper.</p>
+               <p n="3">
+                  <hi>3dly.</hi> A Plantation seems a fit place for those <hi>Ingenious Spirits</hi> that being low in the World, are much clogg'd and oppress'd about a Livelyhood, for the means of subsisting being easie there, they may have time and oppor<g ref="char:EOLhyphen"/>tunity to gratify their inclinations, and thereby improve Science and help Nurseries of people.</p>
+               <p n="4">
+                  <hi>4thly.</hi> A fourth sort of men to whom a <hi>Plantation</hi> would be proper, takes in those that are <hi>younger Brothers</hi> of small Inheritances; yet because they would live in sight of their Kindred in some proportion to their Quality, and can't do it without a labour that looks like <hi>Farming,</hi> their condition is too strait for them; and if married, their Children are often too numerous for the Estate, and are frequently bred up to no Trades, but are a kind of <hi>Hangers on or Retainers to the elder Brothers Table and Charity:</hi> which is a mischief, as in it self to be lamented, so here to be remedied; For Land they have for next to nothing, which with moderate Labour produces plenty of all things necessary for Life, and such an increase as by Traffique may supply them with all conveniencies</p>
+               <p>
+                  <hi>Lastly,</hi> There are another sort of persons, not only fit for, but necessary in <hi>Plantations,</hi> and that is, <hi>Men of universal Spirits,</hi> that have an eye to the Good of Posterity, and that both understand and delight to promote good Discipline and just Government among a plain and well intending people; such persons may find <hi>Room in Colonies for their good Counsel and Con<g ref="char:EOLhyphen"/>trivance,</hi> who are shut out from being of much use or service to great Nati<g ref="char:EOLhyphen"/>ons
+<pb n="7" facs="tcp:41055:5"/> under settl'd Customs: These men deserve much esteem, and would be hearken'd to. Doubtless 'twas this <hi>(as I observ'd before)</hi> that put some of the famous <hi>Greeks</hi> and <hi>Romans</hi> upon Transplanting and Regulating <hi>Colo<g ref="char:EOLhyphen"/>nies</hi> of People in divers parts of the World; whose Names, for giving so great proof of their Wisdom, Virtue, Labour and Constancy, are with Justice honourably delivered down by story to the praise of our own times; though the World, after all its higher pretences of Religion, barbarously errs from their excellent Example.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V. The Journey and it's Appurtenances, and what is to be done there at first coming.</head>
+               <p>Next let us see, <hi>What is fit for the Journey and Place, when there, and also what may be the Charge of the Voyage, and what is to be ex<g ref="char:EOLhyphen"/>pected and done there at first.</hi> That such as incline to go, may not be to seek here, or brought under any disappointments there. The <hi>Goods</hi> fit to take with them for use, or sell for profit, are all sorts of Apparel and Ʋtensils for Husbandry and Building and Houshold Stuff. And because I know how much People are apt to fancy things beyond what they are, and that Imma<g ref="char:EOLhyphen"/>ginations are great flatterers of the minds of Men; To the end that none may delude themselves, with an expectation of an Immediate Amendment of their conditions, so soon as it shall please God they Arrive there; I would have them understand, <hi>That they must look for a Winter before a Sum<g ref="char:EOLhyphen"/>mer comes;</hi> and they must be willing to be two or three years without some of the conveniences they enjoy at home; And yet I must needs say that <hi>Ame<g ref="char:EOLhyphen"/>rica</hi> is another thing then it was at the first Plantation of <hi>Virginia</hi> and <hi>New-England:</hi> For there is better Accommodation, and <hi>English</hi> Provisions are to be had at easier rates: However, I am inclin'd to set down par<g ref="char:EOLhyphen"/>ticulars, as near as those inform me, that know the Place, and have been Planters both in that and in the Neighbouring <hi>Colonys.</hi>
+               </p>
+               <p n="1">
+                  <hi>1st.</hi> The passage will come for Masters and Mistresses at most to <hi>6</hi> Pounds a Head, for Servants Five Pounds a Head, and for Children under Seven years of Age Fifty Shillings, except they Suck, then nothing.</p>
+               <p>Next being by the mercy of God, safely Arrived in <hi>September</hi> or <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> two Men may clear as much Ground by Spring (when they set the Corn of that Country) as will bring in that time twelve month Forty Barrels, which amounts to two Hundred Bushels, which makes Twenty Five quarters of Corn. So that the first year they must buy Corn, which is usually very plentiful. They may so soon as they come, buy <hi>Cows,</hi> more or less, as they want, or are able, which are to be had at easy rates. For <hi>Swine,</hi> they are plentiful and cheap; these will quickly Increase to a Stock. So that after the first year, what with the Poorer sort, sometimes labouring to others, and the more able <hi>Fishing, Fowling,</hi> and sometime Buying; They may do very well, till their own Stocks are sufficient to supply them, and their Families, which will quickly be and to spare, if they follow the <hi>English Husbandry,</hi> as they do in <hi>New-England,</hi> and <hi>New-York;</hi> and get Winter Fodder for their Stock.</p>
+            </div>
+            <div n="6" type="part">
+               <pb n="8" facs="tcp:41055:6"/>
+               <head>VI. and Lastly, An Abstract of the PATENT GRANTED BY THE KING <hi>To William Penn. &amp;c.</hi> The Fourth of <hi>March,</hi> 1680/1.</head>
+               <p n="1">
+                  <hi>I.</hi> WE do Give and Grant (upon divers considerations) to <hi>William Penn</hi> his Heirs and Assigns for ever all that Tract of Land in <hi>America</hi> with all Islands thereunto be<g ref="char:EOLhyphen"/>longing That is to say from the beginning of the fortieth degree of <hi>North Latitude</hi> unto the forty third Degree of <hi>North Latitude</hi> whose Eastern bounds from twelve <hi>English</hi> Miles above <hi>Newcastle</hi> (alias <hi>Delaware Town</hi>) runs all along upon the side of <hi>Delaware</hi> River.</p>
+               <p n="2">
+                  <hi>II.</hi> Free and undisturb'd use and passage into and out of all Harbours Bays Waters Rivers Isles and Inlets belonging to or leading to the same Together with the Soyl Fields Woods Vnderwoods Moun<g ref="char:EOLhyphen"/>tains Hills Fenns Isles Lakes Rivers Waters Rivulets Bays and Inlets Scituate in or belonging unto the Limits and Bounds aforesaid Together with all sorts of Fish Mines Mettles, <hi>&amp;c.</hi> To have and to hold to the only behoof of the said <hi>William Penn</hi> his Heirs and As<g ref="char:EOLhyphen"/>signs for ever To be holden of us as of our Castle of <hi>Windsor</hi> in free and common soccage paying only two <hi>Beaver</hi> Skins yearly.</p>
+               <p n="3">
+                  <hi>III.</hi> And of our further Grace we have thought it fit to erect and we do hereby erect the aforesaid Countrey and Islands into a Province and Seigniory and do call it <hi>Pennsilvania</hi> and so from henceforth we will have it call'd.</p>
+               <p n="4">
+                  <hi>IV.</hi> That reposing special confidence in the wisdom and justice of the said <hi>William Penn</hi> we do grant to him and his Heirs and their De<g ref="char:EOLhyphen"/>puties for the good and happy Government thereof to ordain and e<g ref="char:EOLhyphen"/>nact and under his and their Seals to publish any Laws whatever for the publick uses of the said Province by and with the Advice and Appro<g ref="char:EOLhyphen"/>bation of the Freeholders of the said Countrey or their delegates so as they be not repugnant to the Law of this Realm and to the Faith and Allegiance due unto us by the legal Government thereof.</p>
+               <p n="5">
+                  <hi>V.</hi> Full power to the said <hi>William Penn, &amp;c.</hi> to appoint Iudges Leiutenants Iustices Magistrates and Officers for what causes soever and with what Power and in such Form as to him seems convenient Also to be able to Pardon and Abolish Crimes and Offences and to do all and every other thing that to the compleat Establishment of Iustice un<g ref="char:EOLhyphen"/>to Courts and Tribunals forms of Iudicature and manner of proceed<g ref="char:EOLhyphen"/>ings do belong And our pleasure is and so we enjoyn and require that
+<pb n="9" facs="tcp:41055:6"/> such Laws and Proceedings shall be most absolute and avuilable in Law and that all the Leige People of us our Heirs and Successors inviolably keep the same in those parts saving to us final appeals.</p>
+               <p n="6">
+                  <hi>VI.</hi> That the Laws for regulating Property as well for the discent of Lands as enjoyment of Goods and Chattels and likewise as to Fe<g ref="char:EOLhyphen"/>lonies shall be the same there as here in <hi>England</hi> until they shall be al<g ref="char:EOLhyphen"/>tered by the said <hi>William Penn</hi> his Heirs or Assigns and by the Free-men of the said Province or their Delegates or Deputies or the grea<g ref="char:EOLhyphen"/>ter part of them.</p>
+               <p n="7">
+                  <hi>VII.</hi> Furthermore that this new Colony may the more happily en<g ref="char:EOLhyphen"/>crease by the multitude of People resorting thither therefore we for us our Heirs and Successors do hereby grant License to all the leige Peo<g ref="char:EOLhyphen"/>ple present and future of us, <hi>&amp;c.</hi> (excepting such as shall be specially forbidden) to Transport themselves and Families into the said Countrey there to Inhabit and Plant for the publick and their private Good.</p>
+               <p n="8">
+                  <hi>VIII.</hi> Liberty to Transport what Goods or Commodities are not forbidden paying here the legal Customs due to us, <hi>&amp;c.</hi>
+               </p>
+               <p n="9">
+                  <hi>IX.</hi> Power to divide the Countrey into Counties Hundreds and Towns to Incorporate Towns into Burroughs and Burroughs into Cities to make Fairs and Markets with convenient Priviledges ac<g ref="char:EOLhyphen"/>cording to the merit of the Inhabitants or the fitness of the place And to do all other thing or things touching the premises which to the said <hi>William Penn</hi> his Heirs or Assigns shall seem meet and requisite albeit they be such as of their own nature might otherwise require a more special commandment and warrant then in these presents is express'd.</p>
+               <p n="10">
+                  <hi>X.</hi> Liberty to Import the Growth or Manufactures of that Province into <hi>England</hi> paying here the legal duty.</p>
+               <p n="11">
+                  <hi>XI.</hi> Power to erect Ports Harbours Creeks Havens Keys and o<g ref="char:EOLhyphen"/>ther places for Merchandizes with such Iurisdictions and Priviledges as to the said <hi>William Penn, &amp;c.</hi> shall seem expedient.</p>
+               <p n="12">
+                  <hi>XII.</hi> Not to break the Acts of Navigation neither Governour nor Inhabitants upon the penaltys contained in the said Acts.</p>
+               <p n="13">
+                  <hi>XIII.</hi> Not to be in League with any Prince or Countrey that is in War against us our Heirs and Successors.</p>
+               <p n="14">
+                  <hi>XIV.</hi> Power of safety and defence in such way and manner as to the said <hi>William Penn, &amp;c.</hi> seems meet.</p>
+               <p n="15">
+                  <hi>XV.</hi> Full power to Assign Alien Grant Demise or Enfeoff of the premises so many and such parts and parcels to those that are willing to purchase the same as the said <hi>William Penn</hi> thinks fit <hi>to have and to hold</hi> to them the said Persons their Heirs or Successors in fee Simple or fee Tail or for term of Life or Lives or years to be held of the said <hi>William Penn, &amp;c.</hi> as of the said <hi>Seigniory</hi> of <hi>Windsor</hi> by such servi<g ref="char:EOLhyphen"/>ces Customs and Rents as shall seem fit to the said <hi>William Penn</hi> his Heirs and Assigns and not immediately of us our Heirs or Successors and that the said Persons may take the premisses or any Parcel there<g ref="char:EOLhyphen"/>of of the said <hi>William Penn, &amp;c.</hi> and the same hold to themselves their Heirs and Assigns the Statute <hi>Quia emptores Terrarum</hi> in any wise notwithstanding.</p>
+               <p n="16">
+                  <pb n="10" facs="tcp:41055:7"/>
+                  <hi>XVI.</hi> We give and grant License to any of those Persons to whom the said <hi>William Penn, &amp;c.</hi> has granted any Estate of Inheritance as aforesaid with the consent of the said <hi>William Penn</hi> to erect any parcel of Lands within the said Province into Mannors to hold Courts Bar<g ref="char:EOLhyphen"/>ron and view of Francke-pledge, <hi>&amp;c.</hi> by Themselves or Stewards.</p>
+               <p n="17">
+                  <hi>XVII.</hi> Power to those Persons to Grant to others the same Te<g ref="char:EOLhyphen"/>nures in fee Simple or otherwise to be held of the said Mannors re<g ref="char:EOLhyphen"/>spectively and upon all further Alienations the Land to be held of the Mannor that it held of before the Alienation.</p>
+               <p n="18">
+                  <hi>XVIII.</hi> We do covenant and Grant to and with the said <hi>William Penn</hi> his Heirs and Assigns that we will not set or make any Custom or other Taxation upon the Inhabitants of the said Province upon Lands Houses Goods Chattels or Merchandizes except with the consent of the Inhabitants and Governour.</p>
+               <p n="19">
+                  <hi>XIX.</hi> A charge that no Officers nor Ministers of us our Heirs and Successors do presume at any time to attempt any thing to the con<g ref="char:EOLhyphen"/>trary of the premisses or in any sort withstand the same but that they be at all times aiding to the said <hi>William Penn</hi> and his Heirs and to the Inhabitants and Merchants their Factors and Assigns in the full use and benefit of this our Charter.</p>
+               <p n="20">
+                  <hi>XX.</hi> And if any doubts or questions shall hereafter arise about the true sense or meaning of any Word Clause or Sentence contained in this our Charter We will ordain and command that at all times and in all things such Interpretation be made thereof and allowed in any of our Courts whatsoever as shall be adjudged most advantageous and favourable unto the said <hi>William Penn</hi> his Heirs and Assigns so as it be not against the Faith and Allegiance due to us our Heirs and Successors.</p>
+               <closer>In witness whereof we have caused our Letters to be made Patents. Witness our self at <hi>Westminster,</hi> &amp;c.</closer>
+            </div>
+            <div type="conclusion">
+               <p>To conclude, I desire all my dear Country-Folks, who may be inclin'd to go into those Parts, to consider seriously the premises, <hi>as well the present inconveniences, as future ease and Plenty,</hi> that so none may move rashly or from a fickle but solid mind, <hi>having above all things, an Eye to the providence of God, in the disposal of themselves.</hi> And I would further advise all such at least, to have the permission, if not the good liking of their near Relations, for that is both Natural, and a Duty In<g ref="char:EOLhyphen"/>cumbent upon all; and by this means will natural affection be preser<g ref="char:EOLhyphen"/>ved, and a friendly and profitable correspondence be maintained be<g ref="char:EOLhyphen"/>tween them. In all which <hi>I beseech Almighty God to direct us, that his blessing may attend our honest endeavour, and then the Consequence of all our undertaking will turn to the Glory of his great Name, and the true hap<g ref="char:EOLhyphen"/>piness of us and our Posterity.</hi> Amen.</p>
+               <closer>
+                  <signed>WILLIAM PENN.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>WHoever are desirous to be concern'd with Me in this <hi>Province,</hi> they may be treated with and further Satisfied, at <hi>Philip Fords</hi> in <hi>Bow-lane in Cheapside,</hi> and at <hi>Thomas Rudyards</hi> or <hi>Benjamin Clarks</hi> in <hi>George Yard</hi> in <hi>Lum<g ref="char:EOLhyphen"/>bard-street.</hi>
+               </p>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
